@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.box{
+  background-color: cornflowerblue;
+  width: 100%;
+  height: 100vh;
+
+}
+#formdata{
+  margin-top: 150px;
+  padding: 15px;
+  background-color: #fff;
+}
